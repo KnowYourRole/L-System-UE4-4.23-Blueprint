@@ -1,0 +1,21 @@
+Begin Object Class=/Script/Engine.MaterialInstanceConstant Name="Tree_Bark_Inst"
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   ParameterStateId=7CF9B6004F4ECBA0C4633A804EFCB7F1
+   Parent=Material'"/Game/EssentialTreeKit/BaseMaterial/Tree_Bark.Tree_Bark"'
+   ScalarParameterValues(0)=(ParameterName="RefractionDepthBias",ParameterInfo=(Name="RefractionDepthBias"))
+   VectorParameterValues(0)=(ParameterName="Base Color",ParameterInfo=(Name="Base Color"),ParameterValue=(R=1.000000,G=0.907739,B=0.755000,A=0.000000),ExpressionGUID=6D084E8A4838A1D2E07EF3BDEF1651F2)
+   TextureParameterValues(0)=(ParameterName="Ambient Occulsion",ParameterInfo=(Name="Ambient Occulsion"),ParameterValue=Texture2D'"/Game/EssentialTreeKit/TreeGroup_3/Textures/bark_01_OCC.bark_01_OCC"',ExpressionGUID=21E9F79A40F348F07BB7DFB13901644F)
+   TextureParameterValues(1)=(ParameterName="Base Map",ParameterInfo=(Name="Base Map"),ParameterValue=Texture2D'"/Game/EssentialTreeKit/TreeGroup_3/Textures/bark_01.bark_01"',ExpressionGUID=3A9B263B45CC91557DFF2D8ABFAE8B9B)
+   TextureParameterValues(2)=(ParameterName="Displacement Map",ParameterInfo=(Name="Displacement Map"),ParameterValue=Texture2D'"/Game/EssentialTreeKit/TreeGroup_3/Textures/bark_01_DISP.bark_01_DISP"',ExpressionGUID=DD05D1D841EFC813C3689C964E23522E)
+   TextureParameterValues(3)=(ParameterName="Normal Map",ParameterInfo=(Name="Normal Map"),ParameterValue=Texture2D'"/Game/EssentialTreeKit/TreeGroup_3/Textures/bark_01_NRM.bark_01_NRM"',ExpressionGUID=B41B13E24A51190F09EE96B17DC4C128)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=CE16818A4FE6500865FE0EA61239908F
+   ReferencedTextureGuids(1)=D2D1981A439864D7E76FD2ABF1BEE482
+   ReferencedTextureGuids(2)=43268D6E4BCD70F2B851CB8731C21743
+   ReferencedTextureGuids(3)=8EBD2E10462B6782598936AA26D7144E
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'"SceneThumbnailInfoWithPrimitive_1"'
+   LightingGuid=F683C4784CEC5DD9DD59C5BE26C762E2
+End Object
